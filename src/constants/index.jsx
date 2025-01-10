@@ -1,3 +1,4 @@
+/* eslint-disable react-refresh/only-export-components */
 export const features = [
   {
     id: "0",
@@ -51,63 +52,64 @@ export const faq = [
     id: "0",
     question: "How easy is it to setup Xora?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Setting up Xora is incredibly simple. The platform comes with an intuitive interface and step-by-step guides to get you up and running within minutes.",
   },
   {
     id: "1",
     question: "Can I integrate Xora with other platforms?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Yes, Xora seamlessly integrates with a variety of platforms, including CRMs, project management tools, and communication apps. Our integration options ensure smooth workflows and enhanced productivity.",
   },
   {
     id: "2",
     question: "How often do you add new content?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "We regularly update our platform with new content and features based on user feedback and industry trends. This ensures that you always have access to the latest tools and resources.",
   },
   {
     id: "3",
-    question: "What your refund policy?",
+    question: "What is your refund policy?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "We offer a hassle-free refund policy within the first 30 days of your subscription. If you're not satisfied, simply contact our support team for assistance.",
   },
   {
     id: "4",
     question: "Do you have corporate plans?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Yes, we offer tailored corporate plans designed to meet the needs of businesses of all sizes. Contact our sales team for customized pricing and features.",
   },
   {
     id: "5",
     question: "What happens when I’m out of storage?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "If you run out of storage, you can easily upgrade your plan to increase your capacity. We also provide alerts to help you manage your storage effectively before reaching the limit.",
   },
   {
     id: "6",
     question: "Can I upgrade my plan?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Absolutely! You can upgrade your plan at any time, and our system ensures you receive a prorated discount for the unused portion of your current subscription.",
   },
   {
     id: "7",
     question: "How do I invite my team?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Inviting your team is easy—just head to the 'Team Management' section in your dashboard. From there, you can send email invites and assign roles to team members.",
   },
   {
     id: "8",
     question: "Do you offer training for individuals and teams?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Yes, we provide comprehensive training sessions for both individuals and teams. These sessions are designed to help you maximize the value of Xora’s features and tools.",
   },
   {
     id: "9",
     question: "I’m locked out of my account what do I do?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "If you're locked out of your account, click the 'Forgot Password' link on the login page to reset your credentials. For further assistance, contact our support team directly.",
   },
 ];
+
 
 export const plans = [
   {
